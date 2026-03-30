@@ -1,5 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jay 👋
 
+Backend developer working with:
+
+- Elixir
+- Phoenix Framework
+- PostgreSQL
+
+## Current Work
+Working on Radicon ROME Project.
+
+## Interests
+- Software architecture
+- Scalable backend systems
+- Automation
 <!--
 **OngJiaLe/OngJiaLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
